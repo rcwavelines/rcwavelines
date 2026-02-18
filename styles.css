@@ -60,6 +60,11 @@ nav a.active {
     padding-bottom: 4px;
 }
 
+.csumb-logo {
+    width: 160px;
+    height: auto;
+}
+
 /* Hero Section */
 .hero {
     text-align: center;
